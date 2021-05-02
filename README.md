@@ -1,2 +1,2 @@
 # minesweeperSDL2
-#Giới thiệu về trò chơi
+# 1.Giới thiệu về trò chơi
