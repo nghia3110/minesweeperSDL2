@@ -1,11 +1,11 @@
 # minesweeperSDL2
-*1.Giới thiệu về trò chơi
-    - Dựa trên game [Minesweeper](https://vi.wikipedia.org/wiki/D%C3%B2_m%C3%ACn_(tr%C3%B2_ch%C6%A1i)) của Microsoft, trò chơi được làm bằng ngôn ngữ C++ và thư viện đồ hoạ SDL2.
-    - Mọi thông tin về thư viện SDL2, các cú pháp thường sử dụng tham khảo tại: https://www.libsdl.org/
-    - Cách tải, liên kết thư viện SDL2 với project và tutorial SDL2, tham khảo tại: https://lazyfoo.net/tutorials/SDL/index.php
-    - Trò chơi có sử dụng hình ảnh tại: https://www.flaticon.com/
-    - Sau khi tải code về dưới dạng zip, có thể giải nén và vào thư mục exe, chạy file Game.exe để có thể chơi game. Nếu muốn tham khảo code, vào thư mục code, mở các file .h hoặc .cpp bằng nodepad để xem code. 
-    - Mọi hình ảnh, âm thanh và font chữ được sử dụng trong trò chơi được lưu trong thư mục res.
+# Giới thiệu về trò chơi
+    * Dựa trên game [Minesweeper](https://vi.wikipedia.org/wiki/D%C3%B2_m%C3%ACn_(tr%C3%B2_ch%C6%A1i)) của Microsoft, trò chơi được làm bằng ngôn ngữ C++ và thư viện đồ hoạ SDL2.
+    * Mọi thông tin về thư viện SDL2, các cú pháp thường sử dụng tham khảo tại: https://www.libsdl.org/
+    * Cách tải, liên kết thư viện SDL2 với project và tutorial SDL2, tham khảo tại: https://lazyfoo.net/tutorials/SDL/index.php
+    * Trò chơi có sử dụng hình ảnh tại: https://www.flaticon.com/
+    * Sau khi tải code về dưới dạng zip, có thể giải nén và vào thư mục exe, chạy file Game.exe để có thể chơi game. Nếu muốn tham khảo code, vào thư mục code, mở các file .h hoặc .cpp bằng nodepad để xem code. 
+    * Mọi hình ảnh, âm thanh và font chữ được sử dụng trong trò chơi được lưu trong thư mục res.
 
 
  # 2.Cách chơi
